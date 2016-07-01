@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86"
+    api-level="23"
+    density="420dpi"
+    format="7"
+    timestamp="7056159162635"
+    token="-7805024525258865064" >
+
+    <task
+        name="javac"
+        duration="32960" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="476" />
+    <task
+        name="verifier"
+        duration="11" />
+
+    <artifact
+        location="/home/danish/BasicCalculator/app/build/outputs/apk/app-debug.apk"
+        type="MAIN" />
+
+    <build timestamp="7056159162635" >
+        <artifact
+            location="/home/danish/BasicCalculator/app/build/outputs/apk/app-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>
